@@ -1,0 +1,7 @@
+C:\Users\Zakgard\Desktop\Telegram\my_tel_bot.exe
+C:\Users\Zakgard\Desktop\Telegram\my_tel_bot.dll
+C:\Users\Zakgard\Desktop\Telegram\my_tel_bot.deps.json
+C:\Users\Zakgard\Desktop\Telegram\my_tel_bot.runtimeconfig.json
+C:\Users\Zakgard\Desktop\Telegram\my_tel_bot.pdb
+C:\Users\Zakgard\Desktop\Telegram\Newtonsoft.Json.dll
+C:\Users\Zakgard\Desktop\Telegram\Telegram.Bot.dll

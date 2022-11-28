@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2o+m3qU6xxWwN27CHyZ8bdYfqAB0qqiPQXUYdSt8S7HFU0PjQMoBzh0oC1DYme5QxKfPL+nJbpTlVSL9evy6hA==",
+  "success": true,
+  "projectFilePath": "E:\\VS projects\\my_tel_bot\\my_tel_bot\\my_tel_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakgard\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Zakgard\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

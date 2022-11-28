@@ -1,0 +1,17 @@
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\my_tel_bot.exe
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\my_tel_bot.deps.json
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\my_tel_bot.runtimeconfig.json
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\my_tel_bot.runtimeconfig.dev.json
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\my_tel_bot.dll
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\my_tel_bot.pdb
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\VS projects\my_tel_bot\my_tel_bot\bin\Release\netcoreapp3.1\Telegram.Bot.dll
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.csproj.AssemblyReference.cache
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.AssemblyInfoInputs.cache
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.AssemblyInfo.cs
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.csproj.CoreCompileInputs.cache
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.csproj.CopyComplete
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.dll
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.pdb
+E:\VS projects\my_tel_bot\my_tel_bot\obj\Release\netcoreapp3.1\my_tel_bot.genruntimeconfig.cache
